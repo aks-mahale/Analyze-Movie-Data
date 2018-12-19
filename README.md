@@ -1,4 +1,5 @@
-#Analyze Movie Data
+# Analyze Movie Data
+
 This project was completed as part of the course requirements of Udacity's Data Analyst Nanodegree certification.
 
 The data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings,popularity and revenue.It also provides information on cast,directors,genres etc.My goal for this project is to explore interesting trends in the movie data.
